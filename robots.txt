@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://velvetwebs.github.io/the-broz-gym/sitemap.xml
